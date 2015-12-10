@@ -8,5 +8,6 @@
 
 ##大作业信息
 
-爬取技术类博客。将技术类博客进行汇总分类，如 java， python， hadoop， spark等。
+爬取技术类博客。  
+将技术类博客进行汇总分类，如 java， python， hadoop， spark等。
 java目录又分为算法，多线程，分布式等
